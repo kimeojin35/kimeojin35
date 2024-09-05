@@ -1,7 +1,7 @@
-<a href="https://github.com/devxb/gitanimals">
+<p align="center">
 <img
   src="https://render.gitanimals.org/farms/kimeojin35"
-  width="600"
-  height="300"
+  width="1000"
+  height="200"
 />
-</a>
+</p>
