@@ -1,5 +1,5 @@
 <p>email: ojinikim@gmail.com</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&theme=default"
+        <img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&theme=transparent"
              height=175 />
 <a href="https://github.com/devxb/gitanimals">
   <img
