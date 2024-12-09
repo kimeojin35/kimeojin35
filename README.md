@@ -15,7 +15,12 @@
 
 <!--기술 스택-->
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,styledcomponents,figma" alt="Tech Stack" />
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Libraries & Frameworks**: React, React Native, Next.js  
+- **Build Tools**: Vite, Webpack  
+- **Styling**: TailwindCSS, Styled-Components, Emotion  
+- **Tools**: Figma, Notion, Obsidian, Asana  
+
 <br>
 
 <!--컨택-->
