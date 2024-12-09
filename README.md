@@ -31,11 +31,17 @@
 <!--컨택-->
 ## Contact
 <a href="mailto:ojinikim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-9E9E9E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-blog-url.com">
-    <img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=ghost&logoColor=white" />
+<a href="https://blog.naver.com/amin_35">
+    <img src="https://img.shields.io/badge/Blog-84CC16?style=for-the-badge&logo=ghost&logoColor=white" />
 </a>
+<a href="https://your-notion-url">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+
+
 <br>
 
 <!--깃애니멀-->
