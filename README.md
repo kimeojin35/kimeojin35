@@ -10,8 +10,13 @@
 
 <!--깃허브 스탯-->
 ## Hi, there
-<img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&title_color=84CC16&bg_color=0D1117&icon_color=3F3F46&border_color=27272A" height="175" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&title_color=84CC16&bg_color=0D1117&icon_color=52525B&border_color=27272A" height="175" />
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimeojin35&bg_color=0D1117&title_color=84CC16&border_color=27272A&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br>
+
 
 <!--기술 스택-->
 ## Tech Stack
