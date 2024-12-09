@@ -30,6 +30,7 @@
 
 <!--컨택-->
 ## Contact
+<div>
 <a href="mailto:ojinikim@gmail.com">
     <img src="https://img.shields.io/badge/Email-9E9E9E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -39,6 +40,7 @@
 <a href="https://your-notion-url">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
+</div>
 
 
 
