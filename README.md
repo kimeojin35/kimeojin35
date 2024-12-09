@@ -20,23 +20,25 @@
 - **Build Tools**: Vite, Webpack  
 - **Styling**: TailwindCSS, Styled-Components, Emotion  
 - **Tools**: Figma, Notion, Obsidian, Asana  
-
 <br>
 
 <!--컨택-->
 ## Contact
 <a href="mailto:ojinikim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-blog-url.com">
+</a>
+<a href="https://your-blog-url.com">
     <img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
+</a>
+<br>
 
+<!--깃애니멀-->
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/kimeojin35?pet-id=616202769949899481"
-    width="1000"
-    height="200"
+    src="https://render.gitanimals.org/lines/kimeojin35?pet-id=653764912397578512"
+    width="600"
+    height="140"
   />
 </a>
+  
 
