@@ -7,6 +7,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Famin_35&count_bg=%2384CC16&title_bg=%2384CC16&icon=bootstrap.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false"/></a>
 <!--와카타임-->
 <a href="https://wakatime.com/@fd387424-85da-4362-994b-e4b8d48f86b6"><img src="https://wakatime.com/badge/user/fd387424-85da-4362-994b-e4b8d48f86b6.svg?style=social" alt="Total time coded since Sep 24 2023" /></a>
+<!--백준-->
+<!--
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimain)](https://solved.ac/kimain)
+-->
 </div>
 <br>
 
@@ -27,6 +32,9 @@
 - **Styling**: TailwindCSS, Styled-Components, Emotion  
 - **Tools**: Figma, Notion, Obsidian, Asana  
 <br>
+
+<!--백준-->
+## 
 
 <!--컨택-->
 ## Contact
