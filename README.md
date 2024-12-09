@@ -13,8 +13,8 @@
 <!--깃허브 스탯-->
 ## Hi, there
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&title_color=84CC16&bg_color=0D1117&icon_color=52525B&border_color=27272A" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kimeojin35&bg_color=0D1117&title_color=84CC16&border_color=27272A&langs_count=5" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kimeojin35&show_icons=true&title_color=84CC16&bg_color=0D1117&icon_color=52525B&border_color=27272A" height="175" width="410" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kimeojin35&bg_color=0D1117&title_color=84CC16&border_color=27272A&langs_count=5"  height="175" width="430" />
 </div>
 <br>
 
