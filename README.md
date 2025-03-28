@@ -1,7 +1,7 @@
 <!--배너-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&size=40&pause=1000&color=FFFFFF&width=435&height=60&lines=Kimeojin's+Github" alt="Typing SVG" /></a>
 <div>
-
+portfolio: 
 email: ojinikim@gmail.com <br>
 blog: https://blog.naver.com/amin_35 <br>
 solve.ac: https://solved.ac/profile/kimain
